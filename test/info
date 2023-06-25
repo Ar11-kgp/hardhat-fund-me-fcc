@@ -1,0 +1,11 @@
+Unit tests are done locally
+Used to test minimal portions of our code
+only run on dev chains
+Can be done on:
+
+-   local hardhqat
+-   forked hardhat
+
+Staging tests can be done on a testnet (LAST STOP b4 we deploy to the mainnet!!)
+This might be where we run our code on a testnet or some actual network
+only run on testnets
